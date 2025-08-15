@@ -4,7 +4,7 @@ we have cusmaztion product page and collectio page pelase check below pointes an
 Store URL: https://ajaypatel6298.myshopify.com
 Front passwrod: ajay123
 
-
+ 
 1)We need to perform following customisation on the product detail page:
   Please check product URL: https://ajaypatel6298.myshopify.com/products/ajax-shirt
   i) Show color variants as clickable swatches (not dropdown)
