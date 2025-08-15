@@ -1,16 +1,22 @@
 # Techerudite-Practical
 
-we have cusmaztion product page and collectio page pelase check below pointes and screenshot:
+we have cusmaztion product page and collectio page pelase check below pointes and screenshot
+
+
 Store URL: https://ajaypatel6298.myshopify.com
+
 Front passwrod: ajay123
 
  
 1)We need to perform following customisation on the product detail page:
   Please check product URL: https://ajaypatel6298.myshopify.com/products/ajax-shirt
+  
   i) Show color variants as clickable swatches (not dropdown)
     comment: please check screenhsot: https://prnt.sc/G8B9ECi8yTFc
+    
   ii) Display size availability with visual indicators (available/low stock/out of stock)
     Comment: We have setup inventory on page please check screenshot: https://prnt.sc/eY4JADEO8R8O
+    
   iii) Update product images when color variant changes
     Comment: When user click on color swatch button thene change product image , please check screenhost: https://prnt.sc/tVoybhMPP0xw
 
