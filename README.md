@@ -1,6 +1,6 @@
 # Techerudite-Practical
 
-we have cusmaztion product page and collectio page pelase check below pointes and screenshot
+We have customization product page and collection page please check below points and screenshot
 
 
 Store URL: https://ajaypatel6298.myshopify.com
@@ -31,5 +31,5 @@ Front passwrod: ajay123
    i)Add a filter for 
     comment: We have add price filter , brand filter and, in stock- out of stock . please check screenshot: https://prnt.sc/oe0rrbpU_5he
     ii) Give sorting option as:
-     Comment: we custmaize on shorting file we have show three filter Plese check screenshot: https://prnt.sc/G2C4KL6NnC3B
+     Comment: we customization on shorting file we have show three shorting filter Plese check screenshot: https://prnt.sc/G2C4KL6NnC3B
   
